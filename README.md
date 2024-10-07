@@ -15,6 +15,15 @@ A collection of my introduction to embedded systems course assignments.
 
 ## 仓库组成
 
+* [Embedded System Field Applications](20240908_Embedded_System_Field_Applications.pdf)
+嵌入式系统领域应用
+
+* [ARM V8 Architecture Introduction](20240915_ARM_V8_Architecture_Introduction.pdf)
+ARM V8 架构简介
+
+* [Introduction and Comparison of Intel Desktop CPUs and Embedded CPUs](20240929_Introduction_and_Comparison_of_Intel_Desktop_CPUs_and_Embedded_CPUs.pdf)
+Intel 桌面 CPU 和嵌入式 CPU 介绍和比较
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
@@ -23,4 +32,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年9月13日
+2024年10月8日
