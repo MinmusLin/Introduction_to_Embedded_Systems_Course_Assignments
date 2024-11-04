@@ -33,6 +33,9 @@ LED 控制实验
 * [Matrix Scanning Keyboard Experiment](20241022_Matrix_Scanning_Keyboard_Experiment.pdf)
 矩阵扫描键盘实验
 
+* [Keyboard Module Control Experiment](20241029_Keyboard_Module_Control_Experiment.pdf)
+键盘模块控制实验
+
 ## 致谢
 
 Thanks to [bunnyoii](https://github.com/bunnyoii) for her contributions to this repository.
@@ -47,4 +50,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年10月27日
+2024年11月4日
