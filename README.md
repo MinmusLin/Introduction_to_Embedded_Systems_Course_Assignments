@@ -36,6 +36,9 @@ LED 控制实验
 * [Keyboard Module Control Experiment](20241029_Keyboard_Module_Control_Experiment.pdf)
 键盘模块控制实验
 
+* [Seven-Segment Display Experiment](20241105_Seven_Segment_Display_Experiment.pdf)
+数码管显示实验
+
 * [The Application Areas and Characteristics of Android System](20241117_The_Application_Areas_and_Characteristics_of_Android_System.pdf)
 Android 系统的应用领域和特点
 
@@ -53,4 +56,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年11月19日
+2024年12月10日
